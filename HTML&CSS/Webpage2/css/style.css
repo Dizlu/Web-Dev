@@ -1,0 +1,80 @@
+body{
+	font-family: sans-serif;
+}
+
+header h1{
+	text-indent: -999999px;
+	background-color: #333444;
+	height: 120px;
+	margin-top: 10px;
+}
+
+nav li{
+	display: inline;
+}
+nav{
+	float: right;
+	height: 110px;
+	padding-left: 0;
+}
+nav ul{
+	padding-top: 60px;
+	border-bottom: 2px solid #d1d1d1;
+	}
+
+nav h2{
+	text-indent: -999999px;
+	background-color: #222233;
+	height: 110px;
+}
+h3{
+	color: #333333;
+}
+h3:hover{
+	text-decoration: underline;	
+}
+.banner{
+	float: right;
+}
+
+.banner h2{
+	margin-top: 20px;
+	margin-right: 0px;
+	text-indent: -999999px;
+	background-color: #434343;
+	height: 300px;
+}                                                                                     
+.button{
+	float: right;
+	font-size: 14px;
+	background-color: #eeeeee;
+	color: white;
+	height: 20px;
+}
+
+
+a{
+	text-decoration: none;
+	color: #444555;
+	text-transform: lowercase;
+}
+a:hover, .selected{
+	color: orange;
+}
+
+.selected {
+	text-decoration: underline;
+	color: pink;
+}
+
+.main{
+	background-color: rgba(0,0,0, 0.5);
+}
+
+.bottom p{
+	float: right;
+	padding-right: 120px;
+	margin-top: 20px;
+	font-family: helvetica;	
+	border-top: 2px solid #e3e3e3;
+}
