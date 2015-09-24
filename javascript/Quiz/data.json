@@ -1,0 +1,257 @@
+[
+    {
+        "question": "Mozarella to nazwa: ",
+        "choices": [
+            "ryby",
+            "sera",
+            "ciasta",
+            "tanca"
+        ],
+        "correctAnswer": "1"
+    },
+    {
+        "question": "Słynny obraz Mona Lisa zobrazował: ",
+        "choices": [
+            "Leonardo da Vinci",
+            "PabloPicasso",
+            "Michal Aniol Buonarrotti",
+            "Koń Rafał"
+        ],
+        "correctAnswer": "0"
+    },
+    {
+        "question": "1 kilometr to: ",
+        "choices": [
+            "metr kwadratowy",
+            "1000 metrów",
+            "100 metrów",
+            "1000 centymetrów"
+        ],
+        "correctAnswer": "1"
+    },
+    {
+        "question": "Wielkie koło na sferze niebieskiej wzdłuż którego obserwuje sie pozorny ruch to:",
+        "choices": ["epicykl", "deferent", "ekliptyka", "orbita"],
+        "correctAnswer": "2"
+    },
+    {
+        "question": "Frytki smaży sie na:",
+        "choices": ["smalcu", "oleju", "maśle", "słoninie"],
+        "correctAnswer": "1"
+    },
+    {
+        "question": "W jakim państwie mężczyźni często noszą spódniczki?",
+        "choices": ["w Rosji", "w Polsce", "w Niemczech", "w Szkocji"],
+        "correctAnswer": "3"
+    },
+    {
+        "question": "Potrawa na zimno z mięsa zawierająca dużą ilość żelatyny",
+        "choices": ["Napar", "Galareta", "Przecier", "Kisiel"],
+        "correctAnswer": "1"
+    },
+    {
+        "question": "Zawiedziony z miłości został puszczony: ",
+        "choices": ["winklem", "kątem", "kantem", "rogiem"],
+        "correctAnswer": "2"
+    },
+    {
+        "question": "Ile kątów prostych znajduje się w trójkącie prostokątnym",
+        "choices": ["3", "1", "2", "4"],
+        "correctAnswer": "1"
+    },
+    {
+        "question": "Do odcedzania sluży: ",
+        "choices": ["durszlak", "dziurkacz", "sitarz", "sitwa"],
+        "correctAnswer": "0"
+    },
+    {
+        "question": "Niski stolik do picia kawy to inaczej: ",
+        "choices": ["sofa", "ława", "etażerka", "kredens"],
+        "correctAnswer": "1"
+    },
+    {
+        "question": "Grządka przeznaczona na kwiaty to: ",
+        "choices": ["inspekt", "szkółka", "rabatka", "alejka"],
+        "correctAnswer": "2"
+    },
+    {
+        "question": "Wektory idealnie przeciwstawne mają tylko różne: ",
+        "choices": ["zwroty", "kierunki", "wartości", "dlugości"],
+        "correctAnswer": "0"
+    },
+    {
+        "question": "Które z miast lezy w Polsce: ",
+        "choices": ["Wołgogard", "Moskwa", "Petersburg", "Człuchów"],
+        "correctAnswer": "3"
+    },
+    {
+        "question": "Jaki kolor ma najczęściej szafir: ",
+        "choices": ["niebieski", "zielony", "czarny", "żólty"],
+        "correctAnswer": "0"
+    },
+    {
+        "question": "Jak nazywa sie krewny ze strony ojca",
+        "choices": ["po linii", "po mieczu", "wstępny", "zstępny"],
+        "correctAnswer": "1"
+    },
+    {
+        "question": "W jakiej uliczce nie warto znaleźć się późnym wieczorem?",
+        "choices": ["głuchej", "krwawej", "niemej", "ślepej"],
+        "correctAnswer": "3"
+    },
+    {
+        "question": "Które zwierze kombinuje pod górke?",
+        "choices": ["słon", "legwan", "pies", "koń"],
+        "correctAnswer": "3"
+    },
+    {
+        "question": "Jakie programy wymagają największej ilości pamięci operacyjnej?",
+        "choices": ["pocztowe", "muzyczne", "tekstowe", "graficzne"],
+        "correctAnswer": "3"
+    },
+    {
+        "question": "Przez co byly ciagniete pierwsze pociagi?",
+        "choices": ["parowozy", "elektrowozy", "bawoły", "spalinowozy"],
+        "correctAnswer": "0"
+    },
+    {
+        "question": "Który ptak nie potrafi latać, ale potrafi szybko biegać?",
+        "choices": ["kuropatwa", "albatros", "struś", "bocian"],
+        "correctAnswer": "2"
+    },
+    {
+        "question": "Osoba chorobliwie dużo pracująca to: ",
+        "choices": ["pedant", "syzyf", "pracoholik", "bigot"],
+        "correctAnswer": "2"
+    },
+    {
+        "question": "W ktora noc obchodzono dawniej obrzed znany dawniej Kupały?",
+        "choices": ["sylwestrową", "przemienienia", "wigilijną", "świetojańską"],
+        "correctAnswer": "3"
+    },
+    {
+        "question": "Jaki jest symbol chemiczny ołowiu?",
+        "choices": ["H", "Hg", "Ir", "Pb"],
+        "correctAnswer": "3"
+    },
+    {
+        "question": "Ktora firma wymyślila i wyprodukowała Walkmana?",
+        "choices": ["Aiwa", "Sanyo", "Technics", "Sony"],
+        "correctAnswer": "3"
+    },
+    {
+        "question": "Częste pożary na małym obszarze to sprawka: ",
+        "choices": ["nimfomana", "piromana", "kleptomana", "lekomana"],
+        "correctAnswer": "1"
+    },
+    {
+        "question": "Swiatło załamuje sie w: ",
+        "choices": ["soczewce", "pryzmacie", "mikroskopie", "lunecie"],
+        "correctAnswer": "1"
+    },
+    {
+        "question": "Jaki owoc zawiera we wnętrzu mleko: ",
+        "choices": ["mango", "orzech kokosowy", "orzech brazylijski", "granat"],
+        "correctAnswer": "1"
+    },
+    {
+        "question": "Jakie zwierze znajduje się na opakowaniu każdej czekolady Milka: ",
+        "choices": ["pies", "kot", "świstak", "krowa"],
+        "correctAnswer": "3"
+    },
+    {
+        "question": "Jak nazywa sie długi, wygięty nóż często używany w dżungli?",
+        "choices": ["sztylet", "kindżał", "maczeta", "katana"],
+        "correctAnswer": "2"
+    },
+    {
+        "question": "Dziedzina nauki zajmująca się projektowaniem i obsługą baz danych: ",
+        "choices": ["ekonomia", "elektronika", "matematyka", "informatyka"],
+        "correctAnswer": "3"
+    },
+    {
+        "question": "W kantorze możemy dostać: ",
+        "choices": ["pieczywo", "owoce", "warzywa", "obcą walutę"],
+        "correctAnswer": "3"
+    },
+    {
+    "question": "Jak nazywała sie mitologiczna opiekunka małżeństw, położnic i żon?",
+    "choices": ["Afrodyta", "Atena", "Hera", "Hestia"],
+    "correctAnswer": "2"
+    },
+    {
+        "question": "Ktory kraj słynie z produkcji wielu gatunków sera?",
+        "choices": ["Francja", "Anglia", "Irlandia", "Hispzania"],
+        "correctAnswer": "0"
+    },
+    {
+        "question": "Gdzie przechowujemy jedzenie żeby się nie zepsuło? ",
+        "choices": ["w lodówce", "w łazience", "na dworze", "w szafie"],
+        "correctAnswer": "0"
+    },
+    {
+        "question": "Jaka muzyka wykonywała Ella Fitzgerald?",
+        "choices": ["jazz", "dance", "rock", "heavy metal"],
+        "correctAnswer": "0"
+    },
+    {
+        "question": "Marmolady nie zrobimy z: ",
+        "choices": ["truskawek", "agrestu", "pomidorów", "wiśni"],
+        "correctAnswer": "2"
+    },
+    {
+        "question": "Według przysłowia jak sobie pościelisz, tak sie...",
+        "choices": ["...wykrzyczysz", "...wyśpisz", "...najjesz", "...zmęczysz"],
+        "correctAnswer": "1"
+    },
+    {
+        "question": "Krew od serca do komórek organizmu jest doprowadzana: ",
+        "choices": ["okrężnicami", "żylami", "pęcherzykami", "tętnicami"],
+        "correctAnswer": "3"
+    },
+    {
+        "question": "Który z krajów Unii Europejskiej ma najwięcej ludności: ",
+        "choices": ["Francja", "Wielka Brytania", "Niemcy", "Włochy"],
+        "correctAnswer": "2"
+    },
+    {
+        "question": "W czasie Wigilii nie powinno zabraknąć na stole kapusty z: ",
+        "choices": ["grzybami", "warzywami", "chlebem", "mięsem"],
+        "correctAnswer": "0"
+    },
+    {
+        "question": "Na ubraniach dresowych możemy doliczac sie: ",
+        "choices": ["pasków", "kwadratów", "kropek", "trójkatów"],
+        "correctAnswer": "0"
+    },
+    {
+        "question": "Jak nazywa sie jadowity stawonóg?",
+        "choices": ["kryl", "homar", "rak", "skorpion"],
+        "correctAnswer": "3"
+    },
+    {
+        "question": "Kiedy mamy najdłuższy dzień w roku?",
+        "choices": ["w lipcu", "w czerwcu", "w kwietniu", "w maju"],
+        "correctAnswer": "1"
+    },
+    {
+        "question": "Woda utleniona to słaby roztwor: ",
+        "choices": ["H2O3", "H2O2", "O3", "H2O"],
+        "correctAnswer": "1"
+    },
+    {
+        "question": "Reszta z dzielenie 27 przez 5 wynosi: ",
+        "choices": ["1", "3", "2", "4"],
+        "correctAnswer": "2"
+    },
+    {
+        "question": "Lożę honorową znajdziemy: ",
+        "choices": ["w samolocie", "w sklepie mięsnym", "w kosciele", "w teatrze"],
+        "correctAnswer": "3"
+    },
+    {
+        "question": "Która z wymienionych pań nie byla krolówą Polski?",
+        "choices": ["Anna Jagielonka", "Maria Kazimiera", "Maria Lesczyńska", "Bona Sforza"],
+        "correctAnswer": "2"
+    }
+]
